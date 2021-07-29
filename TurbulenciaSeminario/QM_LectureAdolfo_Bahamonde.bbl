@@ -1,0 +1,2009 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nyt/global//global/global}
+  \entry{alexakis2018}{article}{}
+    \name{author}{2}{}{%
+      {{hash=AA}{%
+         family={Alexakis},
+         familyi={A\bibinitperiod},
+         given={Alexandros},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=BL}{%
+         family={Biferale},
+         familyi={B\bibinitperiod},
+         given={Luca},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{AABL1}
+    \strng{fullhash}{AABL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{pages}{1\bibrangedash 101}
+    \field{title}{Cascades and transitions in turbulent flows}
+    \field{volume}{767}
+    \field{journaltitle}{Physics Reports}
+    \field{year}{2018}
+  \endentry
+
+  \entry{amari2016}{book}{}
+    \name{author}{1}{}{%
+      {{hash=ASi}{%
+         family={Amari},
+         familyi={A\bibinitperiod},
+         given={Shun-ichi},
+         giveni={S\bibinithyphendelim i\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{ASi1}
+    \strng{fullhash}{ASi1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{title}{Information geometry and its applications}
+    \field{volume}{194}
+    \field{year}{2016}
+  \endentry
+
+  \entry{argyris2015}{book}{}
+    \name{author}{4}{}{%
+      {{hash=AJH}{%
+         family={Argyris},
+         familyi={A\bibinitperiod},
+         given={John\bibnamedelima H},
+         giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=FG}{%
+         family={Faust},
+         familyi={F\bibinitperiod},
+         given={Gunter},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=HM}{%
+         family={Haase},
+         familyi={H\bibinitperiod},
+         given={Maria},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=FR}{%
+         family={Friedrich},
+         familyi={F\bibinitperiod},
+         given={Rudolf},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{AJH+1}
+    \strng{fullhash}{AJHFGHMFR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2015}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{title}{An exploration of dynamical systems and chaos: completely
+  revised and enlarged second edition}
+    \field{year}{2015}
+  \endentry
+
+  \entry{avila2011}{article}{}
+    \name{author}{6}{}{%
+      {{hash=AK}{%
+         family={Avila},
+         familyi={A\bibinitperiod},
+         given={Kerstin},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=MD}{%
+         family={Moxey},
+         familyi={M\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=dLA}{%
+         prefix={de},
+         prefixi={d\bibinitperiod},
+         family={Lozar},
+         familyi={L\bibinitperiod},
+         given={Alberto},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=AM}{%
+         family={Avila},
+         familyi={A\bibinitperiod},
+         given={Marc},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=BD}{%
+         family={Barkley},
+         familyi={B\bibinitperiod},
+         given={Dwight},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=HB}{%
+         family={Hof},
+         familyi={H\bibinitperiod},
+         given={Bj{\"o}rn},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Association for the Advancement of Science}%
+    }
+    \strng{namehash}{AK+1}
+    \strng{fullhash}{AKMDLAdAMBDHB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2011}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{6039}
+    \field{pages}{192\bibrangedash 196}
+    \field{title}{The onset of turbulence in pipe flow}
+    \field{volume}{333}
+    \field{journaltitle}{Science}
+    \field{year}{2011}
+  \endentry
+
+  \entry{beck2009}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BC}{%
+         family={Beck},
+         familyi={B\bibinitperiod},
+         given={Christian},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Taylor \& Francis}%
+    }
+    \strng{namehash}{BC1}
+    \strng{fullhash}{BC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2009}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{4}
+    \field{pages}{495\bibrangedash 510}
+    \field{title}{Generalised information and entropy measures in physics}
+    \field{volume}{50}
+    \field{journaltitle}{Contemporary Physics}
+    \field{year}{2009}
+  \endentry
+
+  \entry{beck1995}{book}{}
+    \name{author}{2}{}{%
+      {{hash=BC}{%
+         family={Beck},
+         familyi={B\bibinitperiod},
+         given={Christian},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=SF}{%
+         family={Sch{\"o}gl},
+         familyi={S\bibinitperiod},
+         given={Friedrich},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Cambridge University Press}%
+    }
+    \strng{namehash}{BCSF1}
+    \strng{fullhash}{BCSF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1995}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{4}
+    \field{title}{Thermodynamics of chaotic systems: an introduction}
+    \field{year}{1995}
+  \endentry
+
+  \entry{billingsley2008}{book}{}
+    \name{author}{1}{}{%
+      {{hash=BP}{%
+         family={Billingsley},
+         familyi={B\bibinitperiod},
+         given={Patrick},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {John Wiley \& Sons}%
+    }
+    \strng{namehash}{BP1}
+    \strng{fullhash}{BP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2008}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{Probability and measure}
+    \field{year}{2008}
+  \endentry
+
+  \entry{cardy2008}{book}{}
+    \name{author}{3}{}{%
+      {{hash=CJ}{%
+         family={Cardy},
+         familyi={C\bibinitperiod},
+         given={John},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=FG}{%
+         family={Falkovich},
+         familyi={F\bibinitperiod},
+         given={Gregory},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=GK}{%
+         family={Gaw{\k{e}}dzki},
+         familyi={G\bibinitperiod},
+         given={Krzysztof},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Cambridge University Press}%
+    }
+    \strng{namehash}{CJ+1}
+    \strng{fullhash}{CJFGGK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2008}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{title}{Non-equilibrium statistical mechanics and turbulence}
+    \field{volume}{355}
+    \field{year}{2008}
+  \endentry
+
+  \entry{chandrasekhar2013}{book}{}
+    \name{author}{1}{}{%
+      {{hash=CS}{%
+         family={Chandrasekhar},
+         familyi={C\bibinitperiod},
+         given={Subrahmanyan},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Courier Corporation}%
+    }
+    \strng{namehash}{CS1}
+    \strng{fullhash}{CS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2013}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{title}{Hydrodynamic and hydromagnetic stability}
+    \field{year}{2013}
+  \endentry
+
+  \entry{cover1999}{book}{}
+    \name{author}{1}{}{%
+      {{hash=CTM}{%
+         family={Cover},
+         familyi={C\bibinitperiod},
+         given={Thomas\bibnamedelima M},
+         giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {John Wiley \& Sons}%
+    }
+    \strng{namehash}{CTM1}
+    \strng{fullhash}{CTM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1999}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{title}{Elements of information theory}
+    \field{year}{1999}
+  \endentry
+
+  \entry{criminale2018}{book}{}
+    \name{author}{3}{}{%
+      {{hash=CWO}{%
+         family={Criminale},
+         familyi={C\bibinitperiod},
+         given={William\bibnamedelima O},
+         giveni={W\bibinitperiod\bibinitdelim O\bibinitperiod},
+      }}%
+      {{hash=JTL}{%
+         family={Jackson},
+         familyi={J\bibinitperiod},
+         given={Thomas\bibnamedelima Luther},
+         giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=JRD}{%
+         family={Joslin},
+         familyi={J\bibinitperiod},
+         given={Ronald\bibnamedelima Douglas},
+         giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Cambridge University Press}%
+    }
+    \strng{namehash}{CWO+1}
+    \strng{fullhash}{CWOJTLJRD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{title}{Theory and computation in hydrodynamic stability}
+    \field{year}{2018}
+  \endentry
+
+  \entry{cvitanovic2013}{article}{}
+    \name{author}{1}{}{%
+      {{hash=CP}{%
+         family={Cvitanovi{\'c}},
+         familyi={C\bibinitperiod},
+         given={Predrag},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Cambridge University Press}%
+    }
+    \strng{namehash}{CP1}
+    \strng{fullhash}{CP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2013}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{pages}{1\bibrangedash 4}
+    \field{title}{Recurrent flows: the clockwork behind turbulence}
+    \field{volume}{726}
+    \field{journaltitle}{Journal of Fluid Mechanics}
+    \field{year}{2013}
+  \endentry
+
+  \entry{cvitanovic2005}{article}{}
+    \name{author}{7}{}{%
+      {{hash=CP}{%
+         family={Cvitanovic},
+         familyi={C\bibinitperiod},
+         given={Predrag},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=AR}{%
+         family={Artuso},
+         familyi={A\bibinitperiod},
+         given={Roberto},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=MR}{%
+         family={Mainieri},
+         familyi={M\bibinitperiod},
+         given={Ronnie},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=TG}{%
+         family={Tanner},
+         familyi={T\bibinitperiod},
+         given={Gregor},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=VG}{%
+         family={Vattay},
+         familyi={V\bibinitperiod},
+         given={G{\'a}bor},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=WN}{%
+         family={Whelan},
+         familyi={W\bibinitperiod},
+         given={Niall},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=WA}{%
+         family={Wirzba},
+         familyi={W\bibinitperiod},
+         given={Andreas},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CP+1}
+    \strng{fullhash}{CPARMRTGVGWNWA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2005}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{pages}{25}
+    \field{title}{Chaos: classical and quantum}
+    \field{volume}{69}
+    \field{journaltitle}{ChaosBook. org (Niels Bohr Institute, Copenhagen
+  2005)}
+    \field{year}{2005}
+  \endentry
+
+  \entry{karman1938}{article}{}
+    \name{author}{2}{}{%
+      {{hash=DKT}{%
+         family={De\bibnamedelima Karman},
+         familyi={D\bibinitperiod\bibinitdelim K\bibinitperiod},
+         given={Theodore},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=HL}{%
+         family={Howarth},
+         familyi={H\bibinitperiod},
+         given={Leslie},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {The Royal Society}%
+    }
+    \strng{namehash}{DKTHL1}
+    \strng{fullhash}{DKTHL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1938}
+    \field{labeldatesource}{}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{number}{917}
+    \field{pages}{192\bibrangedash 215}
+    \field{title}{On the statistical theory of isotropic turbulence}
+    \field{volume}{164}
+    \field{journaltitle}{Proceedings of the Royal Society of London. Series
+  A-Mathematical and Physical Sciences}
+    \field{year}{1938}
+  \endentry
+
+  \entry{edwards1969}{article}{}
+    \name{author}{2}{}{%
+      {{hash=ES}{%
+         family={Edwards},
+         familyi={E\bibinitperiod},
+         given={SF},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=MW}{%
+         family={McComb},
+         familyi={M\bibinitperiod},
+         given={WD},
+         giveni={W\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IOP Publishing}%
+    }
+    \strng{namehash}{ESMW1}
+    \strng{fullhash}{ESMW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1969}
+    \field{labeldatesource}{}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \field{number}{2}
+    \field{pages}{157}
+    \field{title}{Statistical mechanics far from equilibrium}
+    \field{volume}{2}
+    \field{journaltitle}{Journal of Physics A: General Physics}
+    \field{year}{1969}
+  \endentry
+
+  \entry{elsinga2010}{article}{}
+    \name{author}{2}{}{%
+      {{hash=EG}{%
+         family={Elsinga},
+         familyi={E\bibinitperiod},
+         given={GE},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=MI}{%
+         family={Marusic},
+         familyi={M\bibinitperiod},
+         given={I},
+         giveni={I},
+      }}%
+    }
+    \strng{namehash}{EGMI1}
+    \strng{fullhash}{EGMI1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2010}
+    \field{labeldatesource}{}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \field{number}{514-539}
+    \field{pages}{20}
+    \field{title}{Universal aspects of small-scale motions in turbulence}
+    \field{volume}{662}
+    \field{journaltitle}{Journal of Fluid Mechanics}
+    \field{year}{2010}
+  \endentry
+
+  \entry{eyinkLecture}{article}{}
+    \name{author}{1}{}{%
+      {{hash=EGL}{%
+         family={Eyink},
+         familyi={E\bibinitperiod},
+         given={Gregory\bibnamedelima L},
+         giveni={G\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {The Johns Hopkins University}%
+    }
+    \strng{namehash}{EGL1}
+    \strng{fullhash}{EGL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2007-2008}
+    \field{labeldatesource}{}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+  \field{howpublished}{\url{http://www.ams.jhu.edu/~eyink/Turbulence/notes.html}}
+    \field{title}{Turbulence Theory}
+    \field{journaltitle}{The Johns Hopkins University}
+    \field{year}{2007-2008}
+  \endentry
+
+  \entry{eyink2006}{article}{}
+    \name{author}{2}{}{%
+      {{hash=EGL}{%
+         family={Eyink},
+         familyi={E\bibinitperiod},
+         given={Gregory\bibnamedelima L},
+         giveni={G\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=SKR}{%
+         family={Sreenivasan},
+         familyi={S\bibinitperiod},
+         given={Katepalli\bibnamedelima R},
+         giveni={K\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {APS}%
+    }
+    \strng{namehash}{EGLSKR1}
+    \strng{fullhash}{EGLSKR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2006}
+    \field{labeldatesource}{}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \field{number}{1}
+    \field{pages}{87}
+    \field{title}{Onsager and the theory of hydrodynamic turbulence}
+    \field{volume}{78}
+    \field{journaltitle}{Reviews of modern physics}
+    \field{year}{2006}
+  \endentry
+
+  \entry{friedrich2020}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=FJ}{%
+         family={Friedrich},
+         familyi={F\bibinitperiod},
+         given={Jan},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{FJ1}
+    \strng{fullhash}{FJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{title}{Non-perturbative Methods in Statistical Descriptions of
+  Turbulence}
+    \field{year}{2020}
+  \endentry
+
+  \entry{friedrich2012}{article}{}
+    \name{author}{6}{}{%
+      {{hash=FR}{%
+         family={Friedrich},
+         familyi={F\bibinitperiod},
+         given={Rudolf},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=DA}{%
+         family={Daitche},
+         familyi={D\bibinitperiod},
+         given={Anton},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=KO}{%
+         family={Kamps},
+         familyi={K\bibinitperiod},
+         given={Oliver},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=LJ}{%
+         family={L{\"u}lff},
+         familyi={L\bibinitperiod},
+         given={Johannes},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=VM}{%
+         family={Vo{\ss}kuhle},
+         familyi={V\bibinitperiod},
+         given={Michel},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=WM}{%
+         family={Wilczek},
+         familyi={W\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{FR+1}
+    \strng{fullhash}{FRDAKOLJVMWM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2012}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{number}{9-10}
+    \field{pages}{929\bibrangedash 953}
+    \field{title}{The Lundgren--Monin--Novikov hierarchy: kinetic equations for
+  turbulence}
+    \field{volume}{13}
+    \field{journaltitle}{Comptes Rendus Physique}
+    \field{year}{2012}
+  \endentry
+
+  \entry{friedrich1997}{article}{}
+    \name{author}{2}{}{%
+      {{hash=FR}{%
+         family={Friedrich},
+         familyi={F\bibinitperiod},
+         given={Rudolf},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=PJ}{%
+         family={Peinke},
+         familyi={P\bibinitperiod},
+         given={Joachim},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {APS}%
+    }
+    \strng{namehash}{FRPJ1}
+    \strng{fullhash}{FRPJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1997}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{number}{5}
+    \field{pages}{863}
+    \field{title}{Description of a turbulent cascade by a Fokker-Planck
+  equation}
+    \field{volume}{78}
+    \field{journaltitle}{Physical Review Letters}
+    \field{year}{1997}
+  \endentry
+
+  \entry{friedrich2011}{article}{}
+    \name{author}{4}{}{%
+      {{hash=FR}{%
+         family={Friedrich},
+         familyi={F\bibinitperiod},
+         given={Rudolf},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=PJ}{%
+         family={Peinke},
+         familyi={P\bibinitperiod},
+         given={Joachim},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=SM}{%
+         family={Sahimi},
+         familyi={S\bibinitperiod},
+         given={Muhammad},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=TMRR}{%
+         family={Tabar},
+         familyi={T\bibinitperiod},
+         given={M\bibnamedelima Reza\bibnamedelima Rahimi},
+         giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim
+  R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{FR+1}
+    \strng{fullhash}{FRPJSMTMRR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2011}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{number}{5}
+    \field{pages}{87\bibrangedash 162}
+    \field{title}{Approaching complexity by stochastic methods: From biological
+  systems to turbulence}
+    \field{volume}{506}
+    \field{journaltitle}{Physics Reports}
+    \field{year}{2011}
+  \endentry
+
+  \entry{frisch1995}{book}{}
+    \name{author}{2}{}{%
+      {{hash=FU}{%
+         family={Frisch},
+         familyi={F\bibinitperiod},
+         given={Uriel},
+         giveni={U\bibinitperiod},
+      }}%
+      {{hash=KAN}{%
+         family={Kolmogorov},
+         familyi={K\bibinitperiod},
+         given={Andrei\bibnamedelima Nikolaevich},
+         giveni={A\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Cambridge university press}%
+    }
+    \strng{namehash}{FUKAN1}
+    \strng{fullhash}{FUKAN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1995}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{title}{Turbulence: the legacy of AN Kolmogorov}
+    \field{year}{1995}
+  \endentry
+
+  \entry{galanti2000}{article}{}
+    \name{author}{2}{}{%
+      {{hash=GB}{%
+         family={Galanti},
+         familyi={G\bibinitperiod},
+         given={B},
+         giveni={B},
+      }}%
+      {{hash=TA}{%
+         family={Tsinober},
+         familyi={T\bibinitperiod},
+         given={A},
+         giveni={A},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{GBTA1}
+    \strng{fullhash}{GBTA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2004}
+    \field{labeldatesource}{}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{number}{3-4}
+    \field{pages}{173\bibrangedash 180}
+    \field{title}{Is turbulence ergodic?}
+    \field{volume}{330}
+    \field{journaltitle}{Physics Letters A}
+    \field{year}{2004}
+  \endentry
+
+  \entry{gaspard2005}{book}{}
+    \name{author}{1}{}{%
+      {{hash=GP}{%
+         family={Gaspard},
+         familyi={G\bibinitperiod},
+         given={Pierre},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Cambridge University Press}%
+    }
+    \strng{namehash}{GP1}
+    \strng{fullhash}{GP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2005}
+    \field{labeldatesource}{}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{number}{9}
+    \field{title}{Chaos, scattering and statistical mechanics}
+    \field{year}{2005}
+  \endentry
+
+  \entry{goto2008}{article}{}
+    \name{author}{1}{}{%
+      {{hash=GS}{%
+         family={Goto},
+         familyi={G\bibinitperiod},
+         given={Susumu},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Cambridge University Press}%
+    }
+    \strng{namehash}{GS1}
+    \strng{fullhash}{GS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2008}
+    \field{labeldatesource}{}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{pages}{355\bibrangedash 366}
+    \field{title}{A physical mechanism of the energy cascade in homogeneous
+  isotropic turbulence}
+    \field{volume}{605}
+    \field{journaltitle}{Journal of Fluid Mechanics}
+    \field{year}{2008}
+  \endentry
+
+  \entry{hamlington2008}{article}{}
+    \name{author}{3}{}{%
+      {{hash=HPE}{%
+         family={Hamlington},
+         familyi={H\bibinitperiod},
+         given={Peter\bibnamedelima E},
+         giveni={P\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Schumacher},
+         familyi={S\bibinitperiod},
+         given={J{\"o}rg},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=DWJ}{%
+         family={Dahm},
+         familyi={D\bibinitperiod},
+         given={Werner\bibnamedelima JA},
+         giveni={W\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Institute of Physics}%
+    }
+    \strng{namehash}{HPE+1}
+    \strng{fullhash}{HPESJDWJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2008}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{number}{11}
+    \field{pages}{111703}
+    \field{title}{Direct assessment of vorticity alignment with local and
+  nonlocal strain rates in turbulent flows}
+    \field{volume}{20}
+    \field{journaltitle}{Physics of Fluids}
+    \field{year}{2008}
+  \endentry
+
+  \entry{hill2001}{article}{}
+    \name{author}{1}{}{%
+      {{hash=HRJ}{%
+         family={Hill},
+         familyi={H\bibinitperiod},
+         given={Reginald\bibnamedelima J},
+         giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HRJ1}
+    \strng{fullhash}{HRJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2001}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{title}{Equations relating structure functions of all orders}
+    \field{journaltitle}{arXiv preprint physics/0102063}
+    \field{year}{2001}
+  \endentry
+
+  \entry{hopf1952}{article}{}
+    \name{author}{1}{}{%
+      {{hash=HE}{%
+         family={Hopf},
+         familyi={H\bibinitperiod},
+         given={Eberhard},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {JSTOR}%
+    }
+    \strng{namehash}{HE1}
+    \strng{fullhash}{HE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1952}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{pages}{87\bibrangedash 123}
+    \field{title}{Statistical hydromechanics and functional calculus}
+    \field{volume}{1}
+    \field{journaltitle}{Journal of rational Mechanics and Analysis}
+    \field{year}{1952}
+  \endentry
+
+  \entry{ishihara2009}{article}{}
+    \name{author}{3}{}{%
+      {{hash=IT}{%
+         family={Ishihara},
+         familyi={I\bibinitperiod},
+         given={Takashi},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=GT}{%
+         family={Gotoh},
+         familyi={G\bibinitperiod},
+         given={Toshiyuki},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=KY}{%
+         family={Kaneda},
+         familyi={K\bibinitperiod},
+         given={Yukio},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Annual Reviews}%
+    }
+    \strng{namehash}{IT+1}
+    \strng{fullhash}{ITGTKY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2009}
+    \field{labeldatesource}{}
+    \field{sortinit}{I}
+    \field{sortinithash}{I}
+    \field{pages}{165\bibrangedash 180}
+    \field{title}{Study of high--Reynolds number isotropic turbulence by direct
+  numerical simulation}
+    \field{volume}{41}
+    \field{journaltitle}{Annual Review of Fluid Mechanics}
+    \field{year}{2009}
+  \endentry
+
+  \entry{jaynes1957}{article}{}
+    \name{author}{1}{}{%
+      {{hash=JET}{%
+         family={Jaynes},
+         familyi={J\bibinitperiod},
+         given={Edwin\bibnamedelima T},
+         giveni={E\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {APS}%
+    }
+    \strng{namehash}{JET1}
+    \strng{fullhash}{JET1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1957}
+    \field{labeldatesource}{}
+    \field{sortinit}{J}
+    \field{sortinithash}{J}
+    \field{number}{4}
+    \field{pages}{620}
+    \field{title}{Information theory and statistical mechanics}
+    \field{volume}{106}
+    \field{journaltitle}{Physical review}
+    \field{year}{1957}
+  \endentry
+
+  \entry{khinchin2013}{book}{}
+    \name{author}{1}{}{%
+      {{hash=KAY}{%
+         family={Khinchin},
+         familyi={K\bibinitperiod},
+         given={A\bibnamedelima Ya},
+         giveni={A\bibinitperiod\bibinitdelim Y\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Courier Corporation}%
+    }
+    \strng{namehash}{KAY1}
+    \strng{fullhash}{KAY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2013}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{title}{Mathematical foundations of information theory}
+    \field{year}{2013}
+  \endentry
+
+  \entry{kolmogorov1941a}{article}{}
+    \name{author}{1}{}{%
+      {{hash=KAN}{%
+         family={Kolmogorov},
+         familyi={K\bibinitperiod},
+         given={Andrey\bibnamedelima Nikolaevich},
+         giveni={A\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KAN1}
+    \strng{fullhash}{KAN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1941}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{pages}{301\bibrangedash 305}
+    \field{title}{The local structure of turbulence in incompressible viscous
+  fluid for very large Reynolds numbers}
+    \field{volume}{30}
+    \field{journaltitle}{Cr Acad. Sci. URSS}
+    \field{year}{1941}
+  \endentry
+
+  \entry{landau1959}{article}{}
+    \name{author}{1}{}{%
+      {{hash=LL}{%
+         family={Landau},
+         familyi={L\bibinitperiod},
+         given={LD},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LL1}
+    \strng{fullhash}{LL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1959}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{title}{EM Lifshitz, Fluid Mechanics}
+    \field{volume}{6}
+    \field{journaltitle}{Course of theoretical physics}
+    \field{year}{1959}
+  \endentry
+
+  \entry{lasota2013}{book}{}
+    \name{author}{2}{}{%
+      {{hash=LA}{%
+         family={Lasota},
+         familyi={L\bibinitperiod},
+         given={Andrzej},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=MMC}{%
+         family={Mackey},
+         familyi={M\bibinitperiod},
+         given={Michael\bibnamedelima C},
+         giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer Science \& Business Media}%
+    }
+    \strng{namehash}{LAMMC1}
+    \strng{fullhash}{LAMMC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2013}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{title}{Chaos, fractals, and noise: stochastic aspects of dynamics}
+    \field{volume}{97}
+    \field{year}{2013}
+  \endentry
+
+  \entry{lee2015}{article}{}
+    \name{author}{2}{}{%
+      {{hash=LM}{%
+         family={Lee},
+         familyi={L\bibinitperiod},
+         given={Myoungkyu},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=MRD}{%
+         family={Moser},
+         familyi={M\bibinitperiod},
+         given={Robert\bibnamedelima D},
+         giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Cambridge University Press}%
+    }
+    \strng{namehash}{LMMRD1}
+    \strng{fullhash}{LMMRD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2015}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{pages}{395\bibrangedash 415}
+    \field{title}{Direct numerical simulation of turbulent channel flow up to}
+    \field{volume}{774}
+    \field{journaltitle}{Journal of Fluid Mechanics}
+    \field{year}{2015}
+  \endentry
+
+  \entry{li2008}{article}{}
+    \name{author}{9}{}{%
+      {{hash=LY}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={Yi},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=PE}{%
+         family={Perlman},
+         familyi={P\bibinitperiod},
+         given={Eric},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=WM}{%
+         family={Wan},
+         familyi={W\bibinitperiod},
+         given={Minping},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=YY}{%
+         family={Yang},
+         familyi={Y\bibinitperiod},
+         given={Yunke},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=MC}{%
+         family={Meneveau},
+         familyi={M\bibinitperiod},
+         given={Charles},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=BR}{%
+         family={Burns},
+         familyi={B\bibinitperiod},
+         given={Randal},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=CS}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Shiyi},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Szalay},
+         familyi={S\bibinitperiod},
+         given={Alexander},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=EG}{%
+         family={Eyink},
+         familyi={E\bibinitperiod},
+         given={Gregory},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Taylor \& Francis}%
+    }
+    \strng{namehash}{LY+1}
+    \strng{fullhash}{LYPEWMYYMCBRCSSAEG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2008}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{number}{9}
+    \field{pages}{N31}
+    \field{title}{A public turbulence database cluster and applications to
+  study Lagrangian evolution of velocity increments in turbulence}
+    \field{journaltitle}{Journal of Turbulence}
+    \field{year}{2008}
+  \endentry
+
+  \entry{lumley2007}{book}{}
+    \name{author}{1}{}{%
+      {{hash=LJL}{%
+         family={Lumley},
+         familyi={L\bibinitperiod},
+         given={John\bibnamedelima L},
+         giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Courier Corporation}%
+    }
+    \strng{namehash}{LJL1}
+    \strng{fullhash}{LJL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2007}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{title}{Stochastic tools in turbulence}
+    \field{year}{2007}
+  \endentry
+
+  \entry{lundgren1967}{article}{}
+    \name{author}{1}{}{%
+      {{hash=LT}{%
+         family={Lundgren},
+         familyi={L\bibinitperiod},
+         given={TS},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Institute of Physics}%
+    }
+    \strng{namehash}{LT1}
+    \strng{fullhash}{LT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1967}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{number}{5}
+    \field{pages}{969\bibrangedash 975}
+    \field{title}{Distribution functions in the statistical theory of
+  turbulence}
+    \field{volume}{10}
+    \field{journaltitle}{The Physics of Fluids}
+    \field{year}{1967}
+  \endentry
+
+  \entry{lvov1995}{article}{}
+    \name{author}{2}{}{%
+      {{hash=LV}{%
+         family={L'vov},
+         familyi={L\bibinitperiod},
+         given={Victor},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=PI}{%
+         family={Procaccia},
+         familyi={P\bibinitperiod},
+         given={Itamar},
+         giveni={I\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LVPI1}
+    \strng{fullhash}{LVPI1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1995}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{title}{Exact Resummations in the Theory of Hydrodynamic Turbulence:
+  0. Line-Resummed Diagrammatic Perturbation Approach}
+    \field{journaltitle}{arXiv preprint chao-dyn/9502010}
+    \field{year}{1995}
+  \endentry
+
+  \entry{lvov1996}{article}{}
+    \name{author}{2}{}{%
+      {{hash=LV}{%
+         family={L'vov},
+         familyi={L\bibinitperiod},
+         given={Victor},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=PI}{%
+         family={Procaccia},
+         familyi={P\bibinitperiod},
+         given={Itamar},
+         giveni={I\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IOP Publishing}%
+    }
+    \strng{namehash}{LVPI1}
+    \strng{fullhash}{LVPI1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1996}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{number}{8}
+    \field{pages}{35}
+    \field{title}{Turbulence: a universal problem}
+    \field{volume}{9}
+    \field{journaltitle}{Physics World}
+    \field{year}{1996}
+  \endentry
+
+  \entry{mccomb2014}{book}{}
+    \name{author}{1}{}{%
+      {{hash=MWD}{%
+         family={McComb},
+         familyi={M\bibinitperiod},
+         given={W\bibnamedelima David},
+         giveni={W\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {OUP Oxford}%
+    }
+    \strng{namehash}{MWD1}
+    \strng{fullhash}{MWD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2014}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{title}{Homogeneous, Isotropic Turbulence: Phenomenology,
+  Renormalization and Statistical Closures}
+    \field{volume}{162}
+    \field{year}{2014}
+  \endentry
+
+  \entry{mccomb1990}{article}{}
+    \name{author}{1}{}{%
+      {{hash=MWD}{%
+         family={McComb},
+         familyi={M\bibinitperiod},
+         given={William\bibnamedelima D},
+         giveni={W\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MWD2}
+    \strng{fullhash}{MWD2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1990}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{title}{The physics of fluid turbulence}
+    \field{journaltitle}{cp}
+    \field{year}{1990}
+  \endentry
+
+  \entry{monin1976}{article}{}
+    \name{author}{3}{}{%
+      {{hash=MA}{%
+         family={Monin},
+         familyi={M\bibinitperiod},
+         given={AS},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=YAM}{%
+         family={Yaglom},
+         familyi={Y\bibinitperiod},
+         given={Ao\bibnamedelima M},
+         giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=LT}{%
+         family={Lundgren},
+         familyi={L\bibinitperiod},
+         given={TS},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MA+1}
+    \strng{fullhash}{MAYAMLT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1976}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{title}{Statistical fluid mechanics, vol. II}
+    \field{year}{1976}
+  \endentry
+
+  \entry{nicolis2012}{book}{}
+    \name{author}{2}{}{%
+      {{hash=NG}{%
+         family={Nicolis},
+         familyi={N\bibinitperiod},
+         given={Gregoire},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=NC}{%
+         family={Nicolis},
+         familyi={N\bibinitperiod},
+         given={Cathy},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {World Scientific}%
+    }
+    \strng{namehash}{NGNC1}
+    \strng{fullhash}{NGNC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2012}
+    \field{labeldatesource}{}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{title}{Foundations of complex systems: emergence, information and
+  predicition}
+    \field{year}{2012}
+  \endentry
+
+  \entry{onsager1949}{article}{}
+    \name{author}{1}{}{%
+      {{hash=OL}{%
+         family={Onsager},
+         familyi={O\bibinitperiod},
+         given={Lars},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{OL1}
+    \strng{fullhash}{OL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1949}
+    \field{labeldatesource}{}
+    \field{sortinit}{O}
+    \field{sortinithash}{O}
+    \field{number}{2}
+    \field{pages}{279\bibrangedash 287}
+    \field{title}{Statistical hydrodynamics}
+    \field{volume}{6}
+    \field{journaltitle}{Il Nuovo Cimento (1943-1954)}
+    \field{year}{1949}
+  \endentry
+
+  \entry{peinke2019}{article}{}
+    \name{author}{3}{}{%
+      {{hash=PJ}{%
+         family={Peinke},
+         familyi={P\bibinitperiod},
+         given={Joachim},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=TMR}{%
+         family={Tabar},
+         familyi={T\bibinitperiod},
+         given={MR\bibnamedelima Rahimi},
+         giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=WM}{%
+         family={W{\"a}chter},
+         familyi={W\bibinitperiod},
+         given={Matthias},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Annual Reviews}%
+    }
+    \strng{namehash}{PJ+1}
+    \strng{fullhash}{PJTMRWM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2019}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{pages}{107\bibrangedash 132}
+    \field{title}{The Fokker--Planck approach to complex spatiotemporal
+  disordered systems}
+    \field{volume}{10}
+    \field{journaltitle}{Annual Review of Condensed Matter Physics}
+    \field{year}{2019}
+  \endentry
+
+  \entry{pope2001}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=PSB}{%
+         family={Pope},
+         familyi={P\bibinitperiod},
+         given={Stephen\bibnamedelima B},
+         giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IOP Publishing}%
+    }
+    \strng{namehash}{PSB1}
+    \strng{fullhash}{PSB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2001}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{title}{Turbulent flows}
+    \field{year}{2001}
+  \endentry
+
+  \entry{rubinstein2018}{article}{}
+    \name{author}{5}{}{%
+      {{hash=RS}{%
+         family={Rubinstein},
+         familyi={R\bibinitperiod},
+         given={Shmuel},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=MR}{%
+         family={McKeown},
+         familyi={M\bibinitperiod},
+         given={Ryan},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=OMR}{%
+         family={Ostilla\bibnamedelima Monico},
+         familyi={O\bibinitperiod\bibinitdelim M\bibinitperiod},
+         given={Rodolfo},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=PA}{%
+         family={Pumir},
+         familyi={P\bibinitperiod},
+         given={Alain},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=BM}{%
+         family={Brenner},
+         familyi={B\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RS+1}
+    \strng{fullhash}{RSMROMRPABM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{pages}{C48\bibrangedash 013}
+    \field{title}{The Emergence of Small Scales in Vortex Ring Collisions}
+    \field{volume}{2018}
+    \field{journaltitle}{APS}
+    \field{year}{2018}
+  \endentry
+
+  \entry{sagaut2008}{book}{}
+    \name{author}{2}{}{%
+      {{hash=SP}{%
+         family={Sagaut},
+         familyi={S\bibinitperiod},
+         given={Pierre},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=CC}{%
+         family={Cambon},
+         familyi={C\bibinitperiod},
+         given={Claude},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{SPCC1}
+    \strng{fullhash}{SPCC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2008}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{Homogeneous turbulence dynamics}
+    \field{volume}{10}
+    \field{year}{2008}
+  \endentry
+
+  \entry{schlichting2016}{book}{}
+    \name{author}{2}{}{%
+      {{hash=SH}{%
+         family={Schlichting},
+         familyi={S\bibinitperiod},
+         given={Hermann},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=GK}{%
+         family={Gersten},
+         familyi={G\bibinitperiod},
+         given={Klaus},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{SHGK1}
+    \strng{fullhash}{SHGK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{Boundary-layer theory}
+    \field{year}{2016}
+  \endentry
+
+  \entry{shannon1948}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SCE}{%
+         family={Shannon},
+         familyi={S\bibinitperiod},
+         given={Claude\bibnamedelima Elwood},
+         giveni={C\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Nokia Bell Labs}%
+    }
+    \strng{namehash}{SCE1}
+    \strng{fullhash}{SCE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1948}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{3}
+    \field{pages}{379\bibrangedash 423}
+    \field{title}{A mathematical theory of communication}
+    \field{volume}{27}
+    \field{journaltitle}{The Bell system technical journal}
+    \field{year}{1948}
+  \endentry
+
+  \entry{squire1933}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SHB}{%
+         family={Squire},
+         familyi={S\bibinitperiod},
+         given={Herbert\bibnamedelima Brian},
+         giveni={H\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {The Royal Society London}%
+    }
+    \strng{namehash}{SHB1}
+    \strng{fullhash}{SHB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1933}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{847}
+    \field{pages}{621\bibrangedash 628}
+    \field{title}{On the stability for three-dimensional disturbances of
+  viscous fluid flow between parallel walls}
+    \field{volume}{142}
+    \field{journaltitle}{Proceedings of the Royal Society of London. Series A,
+  Containing Papers of a Mathematical and Physical Character}
+    \field{year}{1933}
+  \endentry
+
+  \entry{tsinober2009}{book}{}
+    \name{author}{1}{}{%
+      {{hash=TA}{%
+         family={Tsinober},
+         familyi={T\bibinitperiod},
+         given={Arkady},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{TA1}
+    \strng{fullhash}{TA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2009}
+    \field{labeldatesource}{}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{title}{An informal conceptual introduction to turbulence}
+    \field{volume}{483}
+    \field{year}{2009}
+  \endentry
+
+  \entry{tsinober2019}{book}{}
+    \name{author}{3}{}{%
+      {{hash=TA}{%
+         family={Tsinober},
+         familyi={T\bibinitperiod},
+         given={Arkady},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=T}{%
+         family={Tsinober},
+         familyi={T\bibinitperiod},
+      }}%
+      {{hash=J}{%
+         family={Jacobs},
+         familyi={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{TA+1}
+    \strng{fullhash}{TATJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2019}
+    \field{labeldatesource}{}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{title}{Essence of Turbulence as a Physical Phenomenon}
+    \field{year}{2019}
+  \endentry
+
+  \entry{van1992}{book}{}
+    \name{author}{1}{}{%
+      {{hash=VKNG}{%
+         family={Van\bibnamedelima Kampen},
+         familyi={V\bibinitperiod\bibinitdelim K\bibinitperiod},
+         given={Nicolaas\bibnamedelima Godfried},
+         giveni={N\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{VKNG1}
+    \strng{fullhash}{VKNG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1992}
+    \field{labeldatesource}{}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{title}{Stochastic processes in physics and chemistry}
+    \field{volume}{1}
+    \field{year}{1992}
+  \endentry
+
+  \entry{wio2013}{book}{}
+    \name{author}{1}{}{%
+      {{hash=WHS}{%
+         family={Wio},
+         familyi={W\bibinitperiod},
+         given={Horacio\bibnamedelima S},
+         giveni={H\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {World Scientific}%
+    }
+    \strng{namehash}{WHS1}
+    \strng{fullhash}{WHS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2013}
+    \field{labeldatesource}{}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{title}{Path integrals for stochastic processes: An introduction}
+    \field{year}{2013}
+  \endentry
+
+  \entry{wu2020}{article}{}
+    \name{author}{2}{}{%
+      {{hash=WW}{%
+         family={Wu},
+         familyi={W\bibinitperiod},
+         given={Wei},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=WJ}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Jin},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IOP Publishing}%
+    }
+    \strng{namehash}{WWWJ1}
+    \strng{fullhash}{WWWJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{number}{11}
+    \field{pages}{113017}
+    \field{title}{Nonequilibrium thermodynamics of turbulence and stochastic
+  fluid systems}
+    \field{volume}{22}
+    \field{journaltitle}{New Journal of Physics}
+    \field{year}{2020}
+  \endentry
+
+  \entry{yaglom2012}{book}{}
+    \name{author}{1}{}{%
+      {{hash=YAM}{%
+         family={Yaglom},
+         familyi={Y\bibinitperiod},
+         given={Akiva\bibnamedelima M},
+         giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer Science \& Business Media}%
+    }
+    \strng{namehash}{YAM1}
+    \strng{fullhash}{YAM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2012}
+    \field{labeldatesource}{}
+    \field{sortinit}{Y}
+    \field{sortinithash}{Y}
+    \field{title}{Hydrodynamic instability and transition to turbulence}
+    \field{volume}{100}
+    \field{year}{2012}
+  \endentry
+
+  \entry{yao2020}{article}{}
+    \name{author}{2}{}{%
+      {{hash=YJ}{%
+         family={Yao},
+         familyi={Y\bibinitperiod},
+         given={Jie},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=HF}{%
+         family={Hussain},
+         familyi={H\bibinitperiod},
+         given={Fazle},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Cambridge University Press}%
+    }
+    \strng{namehash}{YJHF1}
+    \strng{fullhash}{YJHF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{}
+    \field{sortinit}{Y}
+    \field{sortinithash}{Y}
+    \field{title}{A physical model of turbulence cascade via vortex
+  reconnection sequence and avalanche}
+    \field{volume}{883}
+    \field{journaltitle}{Journal of Fluid Mechanics}
+    \field{year}{2020}
+  \endentry
+
+  \entry{zakharov2012}{book}{}
+    \name{author}{3}{}{%
+      {{hash=ZVE}{%
+         family={Zakharov},
+         familyi={Z\bibinitperiod},
+         given={Vladimir\bibnamedelima E},
+         giveni={V\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=LVS}{%
+         family={L'vov},
+         familyi={L\bibinitperiod},
+         given={Victor\bibnamedelima S},
+         giveni={V\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=FG}{%
+         family={Falkovich},
+         familyi={F\bibinitperiod},
+         given={Gregory},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer Science \& Business Media}%
+    }
+    \strng{namehash}{ZVE+1}
+    \strng{fullhash}{ZVELVSFG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2012}
+    \field{labeldatesource}{}
+    \field{sortinit}{Z}
+    \field{sortinithash}{Z}
+    \field{title}{Kolmogorov spectra of turbulence I: Wave turbulence}
+    \field{year}{2012}
+  \endentry
+\enddatalist
+\endinput

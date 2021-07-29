@@ -1,0 +1,82 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {spanish}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}Introducción}{1}{section.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.1}Que es turbulencia?}{1}{subsection.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2}Cual es el problema de la turbulencia?}{2}{subsection.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}Balances de cantidades hidrodinámicas}{3}{section.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1}Ecuación de vorticidad}{3}{subsection.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2}Ecuaciones de deformación}{5}{subsection.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}Estadística}{8}{section.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1}Momentos}{12}{subsection.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2}Función característica}{13}{subsection.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3}Estadística de varias variables}{14}{subsection.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4}Procesos aleatorios}{15}{subsection.3.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.5}Campos aleatorios}{19}{subsection.3.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.6}Procesos de Markov y ecuación maestra}{21}{subsection.3.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.7}Ecuación de Fokker-Planck}{22}{subsection.3.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.8}Ecuación de Liouville}{23}{subsection.3.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}Teoría de la información}{25}{section.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1}Entropía}{25}{subsection.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2}Entropía de Shannon, información mutua y entropía relativa}{26}{subsection.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3}Entropía y física estadística}{32}{subsection.4.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4}Otras medidas de información}{33}{subsection.4.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5}Estadística y turbulencia}{35}{section.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6}Las ecuaciones de Navier-Stokes}{40}{section.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.1}Ecuaciones de Navier-Stokes en forma solenoidal}{40}{subsection.6.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2}Ecuaciones de Navier-Stokes en espacio de Fourier}{42}{subsection.6.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.3}Funciones de correlación en espacio de Fourier}{45}{subsection.6.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.4}Fuerzas externas}{47}{subsection.6.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.5}Simetrías de las ecuaciones de Navier-Stokes}{47}{subsection.6.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7}Balance de energía}{49}{section.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.1}Balance local de energía}{50}{subsection.7.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8}Teoría de Kolmogorov y cascada de energía}{52}{section.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.1}Ley de 2/3}{52}{subsection.8.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.2}Escalamiento anómalo}{56}{subsection.8.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.3}Ecuación de Karman-Howarth}{57}{subsection.8.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.4}Ley de 4/5 de Kolmogorov}{58}{subsection.8.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {9}Jerarquías de ecuaciones: el gran problema en turbulencia}{60}{section.9}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {9.1}Jerarquía de Friedmann-Keller}{61}{subsection.9.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {9.2}Jerarquías de Lundgren-Monin-Novikov}{62}{subsection.9.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {9.3}Formulación en términos del funcional de Hopf}{65}{subsection.9.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {10}Estabilidad hidrodinámica}{69}{section.10}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.1}La ecuación de Orr-Sommerfeld}{69}{subsection.10.1}%
